@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c911cb6130bbc4541bf3925ca05af0ec
+labels:
+- dunngeon
+- pbr
+- stone
+- structures
+timeCreated: 1569514839
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: materials
+  assetBundleVariant: 

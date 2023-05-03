@@ -1,0 +1,3 @@
+This pack contains an early stage of the textures, stylized version while the full pack is semi-realistic and higher quality. The meshes here are decimated to a lower poly and serve as sample showcase as well as free assets. To get the high quality version of the models and textures visit the full pack!
+
+This pack contains an extra full pbr material not included in the full version.

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39d703c5b34d9a54985ce84532b098da
+labels:
+- dunngeon
+- gates
+- model
+- stone
+- structures
+timeCreated: 1569868931
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: prefabs
+  assetBundleVariant: 

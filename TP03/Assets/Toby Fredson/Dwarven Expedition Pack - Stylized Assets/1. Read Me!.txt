@@ -1,0 +1,22 @@
+1. Thanks for the download!
+
+2. Some general information, I left notes in every folder in case you get lost :)
+
+4. For more information regarding the assets follow this thread: 
+https://forum.unity.com/threads/dwarven-expedition-pack.503325/
+
+Or contact me via email: 
+florianalexandru05@gmail.com
+
+5. Remember to turn on instancing on materials yourself and add post-processing!
+
+6. Please make sure that your project is set to use the linear color space in Edit -> Project Settings -> Player.
+
+7. In case the 4k textures get reverted to 2k, set them to 4k manually!
+
+8. Please don't change the mesh normal, all meshes have custom vertex normals applied, if changed, the normal maps won't work properly!
+
+9. Enjoy my free samples!
+---------------------
+
+Keep an eye out for future updates!!

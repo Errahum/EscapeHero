@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72302c323924d0e4db02800e8cc047da
+labels:
+- cliffs
+- dunngeon
+- pbr
+- rocks
+- stone
+- structures
+timeCreated: 1569925089
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: materials
+  assetBundleVariant: 
